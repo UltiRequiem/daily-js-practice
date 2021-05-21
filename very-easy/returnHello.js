@@ -1,5 +1,5 @@
 function hello() {
-  return "Hello";
+  return 'Hello';
 }
 
 // Test: Return string "Hello"

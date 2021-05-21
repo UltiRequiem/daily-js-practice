@@ -1,19 +1,11 @@
-on:
-  push:
-
+name: CI
+on: push
 jobs:
-  eslint:
-    name: eslint
+  build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: install node v12
-      uses: actions/setup-node@v1
-      with:
-        node-version: 12
-    - name: yarn install
-      run: yarn install
-    - name: eslint
-      uses: icrawl/action-eslint@v1
-      with:
-        custom-glob: apps
+    - uses: actions/checkout@v2
+    - name: Install modules
+      run: npm install eslint
+    - name: Run ESLint
+      run: eslint . --ext .js,.jsx,.ts,.tsx

@@ -1,6 +1,6 @@
-function addition(numberOne, numberTwo){
-	return numberOne + numberTwo
+function addition(numberOne, numberTwo) {
+  return numberOne + numberTwo;
 }
 
 // Test
-console.log(addition(8, 9))
+console.log(addition(8, 9));

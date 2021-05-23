@@ -4,5 +4,5 @@ function getFirstValue(arr) {
   return arr[0];
 }
 
-// takes an array containing only numbers and return the first element
+// Return the first element of an array
 console.log(getFirstValue(array));

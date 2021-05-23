@@ -2,5 +2,5 @@ function hello() {
   return 'Hello';
 }
 
-// Test: Return string 'Hello'
+// Return string 'Hello'
 console.log(hello());

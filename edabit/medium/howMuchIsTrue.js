@@ -3,7 +3,7 @@
 const anArray = [true, false, true, true];
 
 function getOccurrence(array, value) {
-  return array.filter((v) => (v === value)).length;
+  return array.filter((v) => v === value).length;
 }
 
 function countTrue(arr) {

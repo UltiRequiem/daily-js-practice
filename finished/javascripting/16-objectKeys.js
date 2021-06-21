@@ -1,6 +1,6 @@
 const car = {
-  make: "Toyota",
-  model: "Camry",
+  make: 'Toyota',
+  model: 'Camry',
   year: 2020,
 };
 

@@ -1,6 +1,7 @@
 # Finished
 
 Here I will put all the lists of exercises or resources that I have finished.
+You can find links and more information about the challenges in the Readme of each Folder.
 
 ## Index
 

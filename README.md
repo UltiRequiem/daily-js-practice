@@ -5,7 +5,7 @@
 [![License: MIT](https://black.readthedocs.io/en/stable/_static/license.svg)](https://github.com/UltiRequiem/daily-js-practice/blob/main/LICENSE)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript%20is-Cool-1f425f.svg)](https://www.javascript.com)
 
-[JavaScript Challenges Wallpaper](./assets/media/wall.png)
+![JavaScript Challenges Wallpaper](./assets/media/wall.png)
 
 You can check the Code frequency [here](https://github.com/UltiRequiem/daily-js-practice/graphs/code-frequency).
 

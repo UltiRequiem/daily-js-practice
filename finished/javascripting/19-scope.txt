@@ -1,3 +1,5 @@
+// This was changed to txt because it reduces the overall quality of the code.
+
 const a = 1;
 const b = 2;
 const c = 3;

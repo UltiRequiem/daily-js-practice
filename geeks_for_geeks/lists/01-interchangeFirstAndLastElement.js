@@ -6,5 +6,6 @@ const swapList = (listToSwap) => {
   return listToSwap;
 };
 
+// Test ⬇️
 console.log(swapList([1, 2, 3, 4]));
 console.log(swapList([0, 2, 1]));

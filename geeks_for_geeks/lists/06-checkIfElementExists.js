@@ -1,10 +1,13 @@
-const NUMBERS = [1, 6, 3, 5, 3, 4];
-const ELEMENT = 6;
-
+/**
+ * @param {arr} arr: An array with elements.
+ * @param {any} ele: The element searching for.
+ * @returns {string} : A message
+ */
 const printIfIncludes = (arr, ele) => {
   if (arr.includes(ele)) {
-    console.log(`${arr} includes ${ele}.`);
+    return `Your array includes ${ele}.`;
   }
+  return `Your array does not includes ${ele}.`;
 };
 
-printIfIncludes(NUMBERS,ELEMENT)
+console.log(printIfIncludes([1, 2, 3, 4], 4));

@@ -1,5 +1,5 @@
 /**
- * @param {arr} arr: An array with elements.
+ * @param {Array} arr: An array with elements.
  * @param {any} ele: The element searching for.
  * @returns {string} : A message
  */

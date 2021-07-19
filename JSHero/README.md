@@ -1,3 +1,3 @@
 # Javascript Hero
 
-From https://www.jshero.net/en/success.html
+From [JSHero](https://www.jshero.net/en/success.html).
